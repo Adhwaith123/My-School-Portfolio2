@@ -1,0 +1,15 @@
+h1{
+    color :orange;
+    border-color:black;
+    background-color: purple;
+   
+
+}
+
+*{
+    color:orange;
+}
+.header{
+    background-color: blueviolet;
+    display:flex;
+}
